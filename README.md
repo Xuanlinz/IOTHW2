@@ -3,7 +3,7 @@
 ## Overview
 This project features a modern, interactive weather forecast web application developed by **Hsuan-Lin** as part of the **Internet of Things (IoT)** course curriculum. The project focuses on integrating data fetching from government open data platforms, data processing, and front-end visualization using Streamlit, highlighting skills in Python, API integration, and geographic data representation.
 
-* **Live Demo:** [https://github.com/Xuanlinz/IOTHW2](http://localhost:8501/))
+* **Live Demo:** (http://localhost:8501/)
 * **Repository:** [https://github.com/Xuanlinz/IOTHW2](https://github.com/Xuanlinz/IOTHW2)
 * **Project Type:** IoT Course Homework 2 / Web App Development
 
