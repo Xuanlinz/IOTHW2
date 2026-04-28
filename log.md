@@ -4,7 +4,7 @@
 
 **User Request:**
 The user requested a complete Python project to be built from scratch to fetch 7-day weather forecast data for 6 specific geographic regions of Taiwan (Northern, Central, Southern, Northeastern, Eastern, and Southeastern) using the Taiwan Central Weather Administration (CWA) API. The required tasks were:
-1. Query the CWA F-A0010-001 endpoint, bypassing any SSL verification issues.
+1. Query the CWA F-A0010-001 endpoint, dealing any SSL verification issues.
 2. Parse the JSON response to extract Minimum and Maximum temperatures and calculate the average.
 3. Save the structured data into `weather_data.csv`.
 4. Build a Streamlit web application with a left-right layout.
@@ -25,8 +25,7 @@ The user requested a complete Python project to be built from scratch to fetch 7
 ## Interaction 2
 
 **User Request:**
-The user provided a completed `Readme.md` written for their IoT Homework 2 project (developed by Hsuan-Lin) detailing the tech stack, structure, and completed tasks (using the F-D0047-091 API endpoint and separated into `fetch_weather.py` and `app.py`). The user requested that this text be used to create the project's `README.md` and that a log of our conversation should be saved into a `lod.md` file.
+The user provided a completed `Readme.md` written for their IoT Homework 2 project (developed by Hsuan-Lin) detailing the tech stack, structure, and completed tasks (using the F-D0047-091 API endpoint and separated into `fetch_weather.py` and `app.py`) and requested a log of our conversation should be saved into a `lod.md` file.
 
 **Assistant Actions:**
-1. Converted the provided project summary into a formatted `README.md` in the project root.
-2. Generated this `lod.md` file summarizing our step-by-step chat history.
+1. Generated this `lod.md` file summarizing our step-by-step chat history.
